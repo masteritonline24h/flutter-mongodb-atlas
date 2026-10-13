@@ -1,6 +1,6 @@
 # flutter_mongodb_app
 
-MVC Architecture, Express.js API, MongoDB Atlas, និង Session Management (SharedPreferences + Secure Storage)
+MVC Architecture, Express.js API, MongoDB Atlas, + Session Management (SharedPreferences + Secure Storage)
 
 ## Getting Started
 
